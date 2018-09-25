@@ -1,0 +1,4 @@
+#Tue Sep 25 16:16:02 WIB 2018
+base.0=/home/warmachine/FLUTTERPROJECT/flutter_starter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
